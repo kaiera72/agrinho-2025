@@ -6,7 +6,7 @@ body {
 
 header {
   background-color: #4caf0c;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   padding: 20px;
   display: flex;
   align-items: center;
@@ -14,7 +14,7 @@ header {
   position: relative;
   font-family: 'Georgia', serif;
   font-size: 24px;
-  text-shadow: 1px 1px #000;
+  text-shadow: 1px 1px #ffffff;
 }
 
 .menu-icon {
