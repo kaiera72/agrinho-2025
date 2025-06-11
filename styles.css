@@ -115,7 +115,7 @@ footer img {
 
 .close-icon {
   font-size: 30px;
-  color: black;
+  color: rgb(255, 255, 255);
   position: absolute;
   top: 10px;
   right: 15px;
@@ -123,5 +123,5 @@ footer img {
 }
 
 .img {
-    width: 100px;
+    width: 50%;
 }
