@@ -59,6 +59,7 @@ main {
 
 .card p {
   margin: 0;
+  width: 50%;
   text-align: justify;
   font-size: 32px;
   color: #000000;
