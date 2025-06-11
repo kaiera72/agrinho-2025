@@ -31,6 +31,7 @@ main {
 .card {
   background-color: #d1f2c4;
   display: flex;
+  justify-content: center;
   border-left: 8px solid #4caf0c;
   border-radius: 10px;
   margin-bottom: 20px;
